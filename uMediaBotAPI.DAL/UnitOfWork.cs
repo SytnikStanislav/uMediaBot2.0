@@ -45,7 +45,7 @@ namespace uMediaBotAPI.DAL
         }
 
         #region IDisposable Support
-        private bool disposedValue = false; // To detect redundant calls
+        private bool disposedValue = false; // To detect redundant memes
 
         protected virtual void Dispose(bool disposing)
         {
