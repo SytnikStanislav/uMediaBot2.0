@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uMediaBotAPI", "CryptoTrackerAPI\uMediaBotAPI.csproj", "{9635B41E-D8C0-4DC5-9C6C-DFD33EA2E30C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uMediaBotAPI.DAL", "CryptoTrackerAPI.DAL\uMediaBotAPI.DAL.csproj", "{90F7E2BF-8C1A-46C9-9306-C33D7C95C78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9635B41E-D8C0-4DC5-9C6C-DFD33EA2E30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9635B41E-D8C0-4DC5-9C6C-DFD33EA2E30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9635B41E-D8C0-4DC5-9C6C-DFD33EA2E30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9635B41E-D8C0-4DC5-9C6C-DFD33EA2E30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F7E2BF-8C1A-46C9-9306-C33D7C95C78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F7E2BF-8C1A-46C9-9306-C33D7C95C78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F7E2BF-8C1A-46C9-9306-C33D7C95C78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F7E2BF-8C1A-46C9-9306-C33D7C95C78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40950912-D515-47C9-BAAD-E0FD7BC5AE32}
+	EndGlobalSection
+EndGlobal
